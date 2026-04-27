@@ -50,3 +50,10 @@ The dataset contains job listings for Data Analyst roles, including job title, c
 
 ## Files
 - DataAnalyst_Jobs_Analysis.xlsx — Contains raw data, cleaned data, analysis tables, and charts
+## Visualizations
+
+### Job Listings by Title
+![Job Titles](job_titles.png)
+
+### Top Locations by Job Count
+![Locations](locations.png)
