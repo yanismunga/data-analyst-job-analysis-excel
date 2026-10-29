@@ -18,6 +18,11 @@ An Excel analysis of 2,242 US Data Analyst job listings from Glassdoor. The goal
 ### Top Locations by Job Count
 ![Locations](locations.png)
 
+### Analysis Sheet
+All counts and averages below are live `COUNTIF` / `AVERAGEIF` formulas on the cleaned data.
+
+![Analysis sheet](workbook-analysis.png)
+
 ## Data
 
 - **Source:** Kaggle "Data Analyst Jobs" dataset, scraped from Glassdoor in 2020 (US listings only)
@@ -53,4 +58,4 @@ Microsoft Excel · COUNTIF / AVERAGEIF / SUMPRODUCT · Excel charts
 ## Files
 
 - `DataAnalyst_Jobs_Analysis.xlsx`: raw data, cleaned data, analysis, charts and notes
-- `job_titles.png`, `locations.png`: chart images
+- `job_titles.png`, `locations.png`, `workbook-analysis.png`: chart and workbook images
